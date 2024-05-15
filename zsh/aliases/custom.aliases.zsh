@@ -1,9 +1,5 @@
 ### --- custom-alias ------------------------------------------------
 
-alias cat="bat"
-alias vi="lvim"
-alias ls="eza"
-
 ### CD
 alias ~="cd ~"
 alias ..="cd .."
